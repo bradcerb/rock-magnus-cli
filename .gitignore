@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tgz
+.env
+.DS_Store
+agents/
+solo.yml
