@@ -63,7 +63,7 @@ Protect these files with appropriate filesystem permissions.
 ## Development
 
 ```bash
-git clone https://github.com/bradleyerb/rock-magnus-cli.git
+git clone https://github.com/bradcerb/rock-magnus-cli.git
 cd rock-magnus-cli
 npm install
 npm run build
